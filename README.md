@@ -1,8 +1,8 @@
-🧪 Anmol Portfolio Website — Manual QA Project
+🧪 Anmol Portfolio Website - Manual QA Project
 
 Website Link - https://anmol-portfolio-bu.vercel.app/
 
-This repository contains the complete end-to-end Manual Testing documentation for the **Anmol Portfolio Website** project.
+This repository contains the complete end-to-end Manual Testing documentation of Portfolio Website.
 
 📌 Project Overview
 The goal of this project was to validate the functional and non-functional requirements of the portfolio website and assess its readiness for release.
