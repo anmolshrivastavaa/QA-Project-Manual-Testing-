@@ -4,7 +4,7 @@ Website Link - https://anmol-portfolio-bu.vercel.app/
 
 This repository contains the complete end-to-end Manual Testing documentation of Portfolio Website.
 
-📌 Project Overview
+📌 Project Overview.
 The goal of this project was to validate the functional and non-functional requirements of the portfolio website and assess its readiness for release.
 
 🧩 Modules Tested
