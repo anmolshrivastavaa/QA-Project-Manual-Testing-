@@ -8,7 +8,7 @@ This repository contains the complete end-to-end Manual Testing documentation of
 The goal of this project was to validate the functional and non-functional requirements of the portfolio website and assess its readiness for release.
 
 🧩 Modules Tested
-- Home Page
+- Home Page 
 - Navigation
 - About Section
 - Skills Section
