@@ -8,7 +8,6 @@ This repository contains complete end-to-end Manual Testing documentation of My 
 📌 Project Overview
 
 The objective of this project was to validate functional and non-functional requirements of the portfolio website and evaluate its readiness for release using structured manual testing practices.
-
  
 🧩 Modules Tested
 
