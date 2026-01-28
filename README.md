@@ -107,7 +107,7 @@ Browser Developer Tools
 
 MS Excel
 
-MS Word
+MS Word 
 
 
 📌 Key Highlights
