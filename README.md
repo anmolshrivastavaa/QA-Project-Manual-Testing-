@@ -11,7 +11,7 @@ The objective of this project was to validate functional and non-functional requ
  
 🧩 Modules Tested
 
-Home Page
+Home Page 
 
 Navigation
 
