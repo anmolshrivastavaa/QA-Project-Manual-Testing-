@@ -1,7 +1,7 @@
 🧪 Manual QA Project of my Own Portfolio Website
 
 🔗 Website Under Test:
-https://anmol-portfolio-bu.vercel.app/
+https://anmol-portfolio-bu.vercel.app/   
 
 This repository contains complete end-to-end Manual Testing documentation of My portfolio website, executed using an industry-standard QA workflow (JIRA).
  
